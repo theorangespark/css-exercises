@@ -1,0 +1,18 @@
+.boom {
+    background-color: rgb(255, 0, 0, 0.2);
+    
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.boom.bom{
+    font-size: 24px;
+}
+#two {
+    font-size: 36px;
+    color: blue;
+}
+
+#four {
+    font-weight: bold;
+    background-color: rgb(0, 255, 0, 0.2);
+    font-size: 24px;
+}
